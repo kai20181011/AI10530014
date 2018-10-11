@@ -2,6 +2,5 @@
 Zhikai Zhang 
 
 張智凱
-
-I am studying at Chaoyang University of Technology and my usual interest is reading.
-
+老師:https://github.com/kai20181011/AI10530014
+I am studying at Chaoyang University of Technology.
